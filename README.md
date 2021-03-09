@@ -1,5 +1,26 @@
-# quasar-phaser-boilerplate
+# Game (client)
 
+A Quasar Framework app
 
+## Install the dependencies
+```bash
+npm install
+```
 
-Hello, i had been trying to make a project that uses quasar and phaser, and after all these months i couldn't get it done, but now since i have, i would also like to share it with everybody who want to make games in quasar js using phaser!
+### Start the app in development mode (hot-code reloading, error reporting, etc.)
+```bash
+quasar dev
+```
+
+### Lint the files
+```bash
+npm run lint
+```
+
+### Build the app for production
+```bash
+quasar build
+```
+
+### Customize the configuration
+See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
